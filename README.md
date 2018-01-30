@@ -1,5 +1,7 @@
 # 3 - Cloud Storage
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JustinBeckwith/nodejs-debugger.svg)](https://greenkeeper.io/)
+
 This folder contains the sample code for the [Cloud Storage][step-3]
 tutorial. Please refer to the tutorial for instructions on configuring, running,
 and deploying this sample.
